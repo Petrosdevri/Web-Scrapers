@@ -20,8 +20,8 @@ async function extract() {
         return newsArr;
     });
 
-    await browser.close();
     console.log(news);
+    await browser.close();
 }
 
 extract();
