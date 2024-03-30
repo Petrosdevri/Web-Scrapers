@@ -1,0 +1,20 @@
+doctype html
+head
+        include ../includes/head.pug 
+        meta(name='description' content='Web Scrapers to extract news from Russian websites.')
+        title Russian Web Scrapers
+.d-flex.flex-column.justify-content-center.align-items-center.gap-5.p-5
+        h1 Select the preferred website:
+        section.d-flex.justify-content-center.align-items-center.gap-5
+            .card(style='width: 18rem;')
+                .card-body
+                    h5.card-title Nakanune
+                    a.btn.btn-primary(href='/nakanune') To the website
+            .card(style='width: 18rem;')
+                .card-body
+                    h5.card-title TASS
+                    a.btn.btn-primary(href='/tass') To the website
+            .card(style='width: 18rem;')
+                .card-body
+                    h5.card-title TopWar
+                    a.btn.btn-primary(href='/topwar') To the website

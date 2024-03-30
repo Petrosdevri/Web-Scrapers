@@ -1,0 +1,24 @@
+doctype html
+head
+        include ../includes/head.pug 
+        meta(name='description' content='Web Scrapers to extract news from US websites.')
+        title US Web Scrapers
+.d-flex.flex-column.justify-content-center.align-items-center.gap-5.p-5
+        h1 Select the preferred website:
+        section.d-flex.justify-content-center.align-items-center.gap-5
+            .card(style='width: 18rem;')
+                .card-body
+                    h5.card-title Epoch Times
+                    a.btn.btn-primary(href='/epochtimes') To the website
+            .card(style='width: 18rem;')
+                .card-body
+                    h5.card-title Fox News
+                    a.btn.btn-primary(href='/foxnews') To the website
+            .card(style='width: 18rem;')
+                .card-body
+                    h5.card-title Gab News
+                    a.btn.btn-primary(href='/gabnews') To the website
+            .card(style='width: 18rem;')
+                .card-body
+                    h5.card-title One America News (OAN)
+                    a.btn.btn-primary(href='/oan') To the website
