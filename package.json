@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon index.js",
     "elkosmos": "node news/gr/elkosmos.js",
     "epochtimes": "node news/us/epochtimes.js",
     "estia": "node news/gr/estia.js",
