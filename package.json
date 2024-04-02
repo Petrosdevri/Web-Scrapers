@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "capitalgr": "node news/gr/capitalgr.js",
     "dev": "nodemon index.js",
     "elkosmos": "node news/gr/elkosmos.js",
     "epochtimes": "node news/us/epochtimes.js",
@@ -28,7 +29,7 @@
     "body-parser": "^1.20.2",
     "express": "^4.19.2",
     "pug": "^3.0.2",
-    "puppeteer": "^22.4.1"
+    "puppeteer": "^22.6.2"
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
