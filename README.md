@@ -5,6 +5,7 @@ This repository contains a collection of web scrapers designed to extract news a
 ## Scrapers
 
 ### Greece (gr)
+- <a href="https://www.capital.gr/">Capital.gr</a>
 - <a href="https://www.elkosmos.gr/">El.Kosmos</a>
 - <a href="https://www.estianews.gr/">Estia</a>
 - <a href="https://www.ethnos.gr/">Ethnos</a>
