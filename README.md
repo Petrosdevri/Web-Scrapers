@@ -15,6 +15,7 @@ This repository contains a collection of web scrapers designed to extract news a
 - <a href="https://www.romfea.gr/">Romfea</a>
 
 ### Russia (ru)
+- <a href="https://www.kommersant.ru/'">Kommersant</a>
 - <a href="https://nakanune.ru/'">Nakanune</a>
 - <a href="https://tass.com/">TASS</a>
 - <a href="https://en.topwar.ru/">TopWar</a>

@@ -14,6 +14,7 @@
     "gabnews": "node news/us/gabnews.js",
     "karfitsa": "node news/gr/karfitsa.js",
     "kathimerini": "node news/gr/kathimerini.js",
+    "kommersant": "node news/ru/kommersant.js",
     "makeleio": "node news/gr/makeleio.js",
     "nakanune": "node news/ru/nakanune.js",
     "oan": "node news/us/oan.js",
