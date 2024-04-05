@@ -3,13 +3,11 @@ const puppeteer = require('puppeteer');
 const url = 'https://en.topwar.ru/';
 
 async function extract() {
-    const browser = await puppeteer.launch({ headless: true });
+    const browser = await puppeteer.launch();
     const page = await browser.newPage();
-    await page.goto(url);
-
+    await page.goto(url, { waitUntil: 'domcontentloaded' });
+    
     try {
-        await page.waitForSelector('.item-link', { timeout: 60000 });
-
         const news = await page.evaluate(() => {
             let newsArr = [];
             let titles = Array.from(document.querySelectorAll('.item-link'));
