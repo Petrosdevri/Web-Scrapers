@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "breitbart": "node news/us/breitbart.js",
     "capitalgr": "node news/gr/capitalgr.js",
     "dev": "nodemon index.js",
     "elkosmos": "node news/gr/elkosmos.js",

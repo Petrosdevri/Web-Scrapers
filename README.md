@@ -21,6 +21,7 @@ This repository contains a collection of web scrapers designed to extract news a
 - <a href="https://en.topwar.ru/">TopWar</a>
 
 ### United States (us)
+- <a href="https://www.breitbart.com/">Breitbart</a>
 - <a href="https://www.theepochtimes.com/">Epoch Times</a>
 - <a href="https://www.foxnews.com/">Fox News</a>
 - <a href="https://news.gab.com/">Gab News</a>
