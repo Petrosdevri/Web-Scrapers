@@ -20,6 +20,9 @@ This repository contains a collection of web scrapers designed to extract news a
 - <a href="https://tass.com/">TASS</a>
 - <a href="https://en.topwar.ru/">TopWar</a>
 
+### Syria (sy)
+- <a href="https://sana.sy/en/">SANA</a>
+
 ### United States (us)
 - <a href="https://www.breitbart.com/">Breitbart</a>
 - <a href="https://www.theepochtimes.com/">Epoch Times</a>
