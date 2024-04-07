@@ -4,7 +4,24 @@ This repository contains a collection of web scrapers designed to extract news a
 
 ## Scrapers
 
-### Greece (gr)
+### America
+#### United States
+- <a href="https://www.breitbart.com/">Breitbart</a>
+- <a href="https://www.theepochtimes.com/">Epoch Times</a>
+- <a href="https://www.foxnews.com/">Fox News</a>
+- <a href="https://news.gab.com/">Gab News</a>
+- <a href="https://www.oann.com/">One America News (OAN)</a>
+
+### Asia
+#### Iran
+- <a href="https://en.irna.ir/">IRNA</a>
+
+#### Syria
+- <a href="https://sana.sy/en/">SANA</a>
+
+
+### Europe
+#### Greece
 - <a href="https://www.capital.gr/">Capital.gr</a>
 - <a href="https://www.elkosmos.gr/">El.Kosmos</a>
 - <a href="https://www.estianews.gr/">Estia</a>
@@ -14,21 +31,11 @@ This repository contains a collection of web scrapers designed to extract news a
 - <a href="https://www.makeleio.gr/">Makeleio</a>
 - <a href="https://www.romfea.gr/">Romfea</a>
 
-### Russia (ru)
+#### Russia
 - <a href="https://www.kommersant.ru/'">Kommersant</a>
 - <a href="https://nakanune.ru/'">Nakanune</a>
 - <a href="https://tass.com/">TASS</a>
 - <a href="https://en.topwar.ru/">TopWar</a>
-
-### Syria (sy)
-- <a href="https://sana.sy/en/">SANA</a>
-
-### United States (us)
-- <a href="https://www.breitbart.com/">Breitbart</a>
-- <a href="https://www.theepochtimes.com/">Epoch Times</a>
-- <a href="https://www.foxnews.com/">Fox News</a>
-- <a href="https://news.gab.com/">Gab News</a>
-- <a href="https://www.oann.com/">One America News (OAN)</a>
 
 ## Usage
 To use these scrapers, you need to have Node.js installed on your system. Follow these steps:
