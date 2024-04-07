@@ -13,6 +13,7 @@
     "ethnos": "node news/Europe/Greece/ethnos.js",
     "foxnews": "node news/America/United-States/foxnews.js",
     "gabnews": "node news/America/United-States/gabnews.js",
+    "irna": "node news/Asia/Iran/irna.js",
     "karfitsa": "node news/Europe/Greece/karfitsa.js",
     "kathimerini": "node news/Europe/Greece/kathimerini.js",
     "kommersant": "node news/Europe/Russia/kommersant.js",
