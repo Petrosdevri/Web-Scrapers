@@ -14,14 +14,15 @@ This repository contains a collection of web scrapers designed to extract news a
 
 ### Asia
 #### Iran
-- <a href="https://en.irna.ir/">IRNA</a>
+- <a href="https://en.irna.ir/">Islamic Republic News Agency (IRNA)</a>
 
 #### Syria
-- <a href="https://sana.sy/en/">SANA</a>
+- <a href="https://sana.sy/en/">Syrian Arab News Agency (SANA)</a>
 
 
 ### Europe
 #### Greece
+- <a href="https://www.amna.gr/">Athens News Agency (ANA)</a>
 - <a href="https://www.capital.gr/">Capital.gr</a>
 - <a href="https://www.elkosmos.gr/">El.Kosmos</a>
 - <a href="https://www.estianews.gr/">Estia</a>
@@ -34,7 +35,7 @@ This repository contains a collection of web scrapers designed to extract news a
 #### Russia
 - <a href="https://www.kommersant.ru/'">Kommersant</a>
 - <a href="https://nakanune.ru/'">Nakanune</a>
-- <a href="https://tass.com/">TASS</a>
+- <a href="https://tass.com/">Russian News Agency (TASS)</a>
 - <a href="https://en.topwar.ru/">TopWar</a>
 
 ## Usage
