@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "ana": "node news/Europe/Greece/ana.js",
     "breitbart": "node news/America/United-States/breitbart.js",
     "capitalgr": "node news/Europe/Greece/capitalgr.js",
     "dev": "nodemon index.js",
