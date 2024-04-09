@@ -21,6 +21,7 @@
     "makeleio": "node news/Europe/Greece/makeleio.js",
     "nakanune": "node news/Europe/Russia/nakanune.js",
     "oan": "node news/America/United-States/oan.js",
+    "pnn": "node news/Asia/Palestine/pnn.js",
     "romfea": "node news/Europe/Greece/romfea.js",
     "sana": "node news/Asia/Syria/sana.js",
     "tass": "node news/Europe/Russia/tass.js",

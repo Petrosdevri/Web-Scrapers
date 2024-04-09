@@ -16,6 +16,9 @@ This repository contains a collection of web scrapers designed to extract news a
 #### Iran
 - <a href="https://en.irna.ir/">Islamic Republic News Agency (IRNA)</a>
 
+#### Palestine
+- <a href="https://english.pnn.ps/">Palestine News Network (PNN)</a>
+
 #### Syria
 - <a href="https://sana.sy/en/">Syrian Arab News Agency (SANA)</a>
 
