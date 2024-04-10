@@ -5,6 +5,9 @@ This repository contains a collection of web scrapers designed to extract news a
 ## Scrapers
 
 ### America
+#### Cuba
+- <a href="https://www.granma.cu/">Granma</a>
+
 #### United States
 - <a href="https://www.breitbart.com/">Breitbart</a>
 - <a href="https://www.theepochtimes.com/">Epoch Times</a>
