@@ -28,6 +28,8 @@ This repository contains a collection of web scrapers designed to extract news a
 #### Syria
 - <a href="https://sana.sy/en/">Syrian Arab News Agency (SANA)</a>
 
+#### Vietnam
+- <a href="https://vietnamnews.vn/">Vietnam News</a>
 
 ### Europe
 #### Greece
