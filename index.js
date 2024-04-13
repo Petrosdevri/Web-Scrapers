@@ -15,6 +15,14 @@ app.get('/', (req, res) => {
     res.render('index');
 });
 
+app.get('/america', (req, res) => {
+    res.render('America/index');
+});
+
+app.get('/europe', (req, res) => {
+    res.render('Europe/index');
+});
+
 app.get('/gr', (req, res) => {
     res.render('countries/gr');
 });
@@ -30,7 +38,10 @@ app.get('/us', (req, res) => {
 app.get('/elkosmos', async (req, res) => {
     try {
         const url = 'https://www.elkosmos.gr';
-        const browser = await puppeteer.launch();
+        const browser = await puppeteer.launch({
+            executablePath: '/home/codespace/.cache/puppeteer/chrome/linux-123.0.6312.86/chrome-linux64/chrome',
+            headless: true
+        });
         const page = await browser.newPage();
         await page.goto(url);
 
