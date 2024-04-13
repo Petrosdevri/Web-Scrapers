@@ -38,10 +38,7 @@ app.get('/us', (req, res) => {
 app.get('/elkosmos', async (req, res) => {
     try {
         const url = 'https://www.elkosmos.gr';
-        const browser = await puppeteer.launch({
-            executablePath: '/home/codespace/.cache/puppeteer/chrome/linux-123.0.6312.86/chrome-linux64/chrome',
-            headless: true
-        });
+        const browser = await puppeteer.launch({ headless: true });
         const page = await browser.newPage();
         await page.goto(url);
 
@@ -64,7 +61,7 @@ app.get('/elkosmos', async (req, res) => {
 app.get('/estia', async (req, res) => {
     try {
         const url = 'https://www.estianews.gr';
-        const browser = await puppeteer.launch();
+        const browser = await puppeteer.launch({ headless: true });
         const page = await browser.newPage();
         await page.goto(url);
 
@@ -87,7 +84,7 @@ app.get('/estia', async (req, res) => {
 app.get('/ethnos', async (req, res) => {
     try {
         const url = 'https://www.ethnos.gr';
-        const browser = await puppeteer.launch();
+        const browser = await puppeteer.launch({ headless: true });
         const page = await browser.newPage();
         await page.goto(url);
 
@@ -112,7 +109,7 @@ app.get('/ethnos', async (req, res) => {
 app.get('/karfitsa', async (req, res) => {
     try {
         const url = 'https://www.karfitsa.gr';
-        const browser = await puppeteer.launch();
+        const browser = await puppeteer.launch({ headless: true });
         const page = await browser.newPage();
         await page.goto(url);
 
@@ -135,7 +132,7 @@ app.get('/karfitsa', async (req, res) => {
 app.get('/kathimerini', async (req, res) => {
     try {
         const url = 'https://www.kathimerini.gr/';
-        const browser = await puppeteer.launch();
+        const browser = await puppeteer.launch({ headless: true });
         const page = await browser.newPage();
         await page.goto(url);
 
@@ -158,7 +155,7 @@ app.get('/kathimerini', async (req, res) => {
 app.get('/makeleio', async (req, res) => {
     try {
         const url = 'https://www.makeleio.gr/';
-        const browser = await puppeteer.launch();
+        const browser = await puppeteer.launch({ headless: true });
         const page = await browser.newPage();
         await page.goto(url);
 
@@ -181,7 +178,7 @@ app.get('/makeleio', async (req, res) => {
 app.get('/romfea', async (req, res) => {
     try {
         const url = 'https://www.romfea.gr/';
-        const browser = await puppeteer.launch();
+        const browser = await puppeteer.launch({ headless: true });
         const page = await browser.newPage();
         await page.goto(url);
 
@@ -204,7 +201,7 @@ app.get('/romfea', async (req, res) => {
 app.get('/nakanune', async (req, res) => {
     try {
         const url = 'https://www.nakanune.ru/';
-        const browser = await puppeteer.launch();
+        const browser = await puppeteer.launch({ headless: true });
         const page = await browser.newPage();
         await page.goto(url);
 
@@ -229,7 +226,7 @@ app.get('/nakanune', async (req, res) => {
 app.get('/tass', async (req, res) => {
     try {
         const url = 'https://tass.com/';
-        const browser = await puppeteer.launch();
+        const browser = await puppeteer.launch({ headless: true });
         const page = await browser.newPage();
         await page.goto(url);
 
@@ -252,7 +249,7 @@ app.get('/tass', async (req, res) => {
 app.get('/topwar', async (req, res) => {
     try {
         const url = 'https://en.topwar.ru/';
-        const browser = await puppeteer.launch();
+        const browser = await puppeteer.launch({ headless: true });
         const page = await browser.newPage();
         await page.goto(url);
 
@@ -275,7 +272,7 @@ app.get('/topwar', async (req, res) => {
 app.get('/epochtimes', async (req, res) => {
     try {
         const url = 'https://www.theepochtimes.com/';
-        const browser = await puppeteer.launch();
+        const browser = await puppeteer.launch({ headless: true });
         const page = await browser.newPage();
         await page.goto(url);
 
@@ -298,7 +295,7 @@ app.get('/epochtimes', async (req, res) => {
 app.get('/foxnews', async (req, res) => {
     try {
         const url = 'https://www.foxnews.com/';
-        const browser = await puppeteer.launch();
+        const browser = await puppeteer.launch({ headless: true });
         const page = await browser.newPage();
         await page.goto(url);
 
@@ -321,7 +318,7 @@ app.get('/foxnews', async (req, res) => {
 app.get('/gabnews', async (req, res) => {
     try {
         const url = 'https://news.gab.com/';
-        const browser = await puppeteer.launch();
+        const browser = await puppeteer.launch({ headless: true });
         const page = await browser.newPage();
         await page.goto(url);
 
@@ -344,7 +341,7 @@ app.get('/gabnews', async (req, res) => {
 app.get('/oan', async (req, res) => {
     try {
         const url = 'https://www.oann.com/';
-        const browser = await puppeteer.launch();
+        const browser = await puppeteer.launch({ headless: true });
         const page = await browser.newPage();
         await page.goto(url);
 
