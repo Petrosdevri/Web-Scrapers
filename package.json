@@ -6,6 +6,7 @@
   "scripts": {
     "ana": "node news/Europe/Greece/ana.js",
     "batimes": "node news/America/Argentina/batimes.js",
+    "bolpress": "node news/America/Bolivia/bolpress.js",
     "breitbart": "node news/America/United-States/breitbart.js",
     "capitalgr": "node news/Europe/Greece/capitalgr.js",
     "dev": "nodemon index.js",
