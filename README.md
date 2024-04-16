@@ -8,6 +8,9 @@ This repository contains a collection of web scrapers designed to extract news a
 #### Argentina
 - <a href="https://www.batimes.com.ar/">Buenos Aires Times</a>
 
+#### Bolivia
+- <a href="https://www.bolpress.com/">Bolpress</a>
+
 #### Brazil
 - <a href="https://www1.folha.uol.com.br/internacional/en/">Folha de S.Paulo</a>
 
