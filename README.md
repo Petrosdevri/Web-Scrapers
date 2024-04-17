@@ -17,6 +17,9 @@ This repository contains a collection of web scrapers designed to extract news a
 #### Cuba
 - <a href="https://www.granma.cu/">Granma</a>
 
+#### Nicaragua
+- <a href="https://www.laprensani.com/">La Prensa</a>
+
 #### United States
 - <a href="https://www.breitbart.com/">Breitbart</a>
 - <a href="https://www.theepochtimes.com/">Epoch Times</a>
