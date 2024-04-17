@@ -22,6 +22,7 @@
     "karfitsa": "node news/Europe/Greece/karfitsa.js",
     "kathimerini": "node news/Europe/Greece/kathimerini.js",
     "kommersant": "node news/Europe/Russia/kommersant.js",
+    "laprensa": "node news/America/Nicaragua/laprensa.js",
     "makeleio": "node news/Europe/Greece/makeleio.js",
     "nakanune": "node news/Europe/Russia/nakanune.js",
     "oan": "node news/America/United-States/oan.js",
