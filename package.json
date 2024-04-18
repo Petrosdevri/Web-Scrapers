@@ -31,6 +31,7 @@
     "sana": "node news/Asia/Syria/sana.js",
     "tass": "node news/Europe/Russia/tass.js",
     "tehrantimes": "node news/Asia/Iran/tehrantimes.js",
+    "telesur": "node news/America/Venezuela/telesur.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "topwar": "node news/Europe/Russia/topwar.js",
     "vietnamnews": "node news/Asia/Vietnam/vietnamnews.js"

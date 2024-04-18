@@ -27,6 +27,9 @@ This repository contains a collection of web scrapers designed to extract news a
 - <a href="https://news.gab.com/">Gab News</a>
 - <a href="https://www.oann.com/">One America News (OAN)</a>
 
+#### Venezuela
+- <a href="https://www.telesurenglish.net/">teleSUR</a>
+
 ### Asia
 #### Iran
 - <a href="https://en.irna.ir/">Islamic Republic News Agency (IRNA)</a>
