@@ -4,6 +4,10 @@ This repository contains a collection of web scrapers designed to extract news a
 
 ## Scrapers
 
+### Africa
+#### Egypt
+- <a href="https://www.mena.org.eg/en/">Middle East News Agency (MENA)</a>
+
 ### America
 #### Argentina
 - <a href="https://www.batimes.com.ar/">Buenos Aires Times</a>
