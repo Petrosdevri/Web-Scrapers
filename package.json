@@ -24,6 +24,7 @@
     "kommersant": "node news/Europe/Russia/kommersant.js",
     "laprensa": "node news/America/Nicaragua/laprensa.js",
     "makeleio": "node news/Europe/Greece/makeleio.js",
+    "mena": "node news/Africa/Egypt/mena.js",
     "nakanune": "node news/Europe/Russia/nakanune.js",
     "oan": "node news/America/United-States/oan.js",
     "pnn": "node news/Asia/Palestine/pnn.js",
