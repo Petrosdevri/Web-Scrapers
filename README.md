@@ -30,6 +30,7 @@ This repository contains a collection of web scrapers designed to extract news a
 - <a href="https://www.foxnews.com/" target="_blank">Fox News</a>
 - <a href="https://news.gab.com/" target="_blank">Gab News</a>
 - <a href="https://www.oann.com/" target="_blank">One America News (OAN)</a>
+- <a href="https://www.zerohedge.com/" target="_blank">ZeroHedge</a>
 
 #### Venezuela
 - <a href="https://www.telesurenglish.net/" target="_blank">teleSUR</a>

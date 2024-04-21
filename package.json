@@ -35,7 +35,8 @@
     "telesur": "node news/America/Venezuela/telesur.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "topwar": "node news/Europe/Russia/topwar.js",
-    "vietnamnews": "node news/Asia/Vietnam/vietnamnews.js"
+    "vietnamnews": "node news/Asia/Vietnam/vietnamnews.js",
+    "zerohedge": "node news/America/United-States/zerohedge.js"
   },
   "keywords": [],
   "author": "",
