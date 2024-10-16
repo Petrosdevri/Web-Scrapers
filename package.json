@@ -14,6 +14,7 @@
     "epochtimes": "node news/America/United-States/epochtimes.js",
     "estia": "node news/Europe/Greece/estia.js",
     "ethnos": "node news/Europe/Greece/ethnos.js",
+    "euractiv": "node news/Europe/European-Union/euractiv.js",
     "folhadesp": "node news/America/Brazil/folhadesp.js",
     "foxnews": "node news/America/United-States/foxnews.js",
     "gabnews": "node news/America/United-States/gabnews.js",
