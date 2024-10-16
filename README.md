@@ -50,6 +50,9 @@ This repository contains a collection of web scrapers designed to extract news a
 - <a href="https://vietnamnews.vn/" target="_blank">Vietnam News</a>
 
 ### Europe
+#### European Union
+- <a href="https://www.amna.gr/" target="_blank">Euractiv</a>
+
 #### Greece
 - <a href="https://www.amna.gr/" target="_blank">Athens News Agency (ANA)</a>
 - <a href="https://www.capital.gr/" target="_blank">Capital.gr</a>
