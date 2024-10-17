@@ -53,6 +53,9 @@ This repository contains a collection of web scrapers designed to extract news a
 #### European Union
 - <a href="https://www.amna.gr/" target="_blank">Euractiv</a>
 
+#### Germany
+- <a href="https://www.dw.com/en/top-stories/s-9097" target="_blank">Deutsche Welle</a>
+
 #### Greece
 - <a href="https://www.amna.gr/" target="_blank">Athens News Agency (ANA)</a>
 - <a href="https://www.capital.gr/" target="_blank">Capital.gr</a>
