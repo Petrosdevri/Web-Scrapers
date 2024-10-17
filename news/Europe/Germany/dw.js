@@ -10,8 +10,6 @@ async function extract() {
     const news = await page.evaluate(() => {
         let newsArr = [];
         let titles = Array.from(document.querySelectorAll('.ts-teaser-title h3 a, .news-title h3 a'));
-        // let otherTitles = Array.from(document.querySelectorAll('.caption h3 a'));
-        // titles.push(...otherTitles);
         
         for (let title of titles) {
             newsArr.push({ Title: title.textContent.trim(), Link: title.href });
