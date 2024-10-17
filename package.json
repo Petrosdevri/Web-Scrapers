@@ -10,6 +10,7 @@
     "breitbart": "node news/America/United-States/breitbart.js",
     "capitalgr": "node news/Europe/Greece/capitalgr.js",
     "dev": "nodemon index.js",
+    "dw": "node news/Europe/Germany/dw.js",
     "elkosmos": "node news/Europe/Greece/elkosmos.js",
     "epochtimes": "node news/America/United-States/epochtimes.js",
     "estia": "node news/Europe/Greece/estia.js",
